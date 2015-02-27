@@ -1,0 +1,23 @@
+{
+  "name": "inheritance-js",
+  "version": "2.7.0",
+  "description": "Unofficial clone of https://code.google.com/p/inheritance/ to support npm",
+  "main": "inheritance.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limdauto/inheritance-js.git"
+  },
+  "keywords": [
+    "javascript",
+    "inheritance"
+  ],
+  "author": "Alex Arnell",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/limdauto/inheritance-js/issues"
+  },
+  "homepage": "https://github.com/limdauto/inheritance-js"
+}
