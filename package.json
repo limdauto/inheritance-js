@@ -1,0 +1,84 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "inheritance-js@git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+        "scope": null,
+        "escapedName": "inheritance-js",
+        "name": "inheritance-js",
+        "rawSpec": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+        "spec": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+        "type": "hosted",
+        "hosted": {
+          "type": "github",
+          "ssh": "git@github.com:limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+          "sshUrl": "git+ssh://git@github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+          "httpsUrl": "git+https://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+          "gitUrl": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+          "shortcut": "github:limdauto/inheritance-js#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+          "directUrl": "https://raw.githubusercontent.com/limdauto/inheritance-js/b9162cc2827088070faf8ae7e96aea2fcddf85a0/package.json"
+        }
+      },
+      "/Users/lim/Projects/Memrise/memrise"
+    ]
+  ],
+  "_from": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+  "_id": "inheritance-js@2.7.0",
+  "_inCache": true,
+  "_location": "/inheritance-js",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "inheritance-js@git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+    "scope": null,
+    "escapedName": "inheritance-js",
+    "name": "inheritance-js",
+    "rawSpec": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+    "spec": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+    "type": "hosted",
+    "hosted": {
+      "type": "github",
+      "ssh": "git@github.com:limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+      "sshUrl": "git+ssh://git@github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+      "httpsUrl": "git+https://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+      "gitUrl": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+      "shortcut": "github:limdauto/inheritance-js#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+      "directUrl": "https://raw.githubusercontent.com/limdauto/inheritance-js/b9162cc2827088070faf8ae7e96aea2fcddf85a0/package.json"
+    }
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+  "_shasum": "71f9dd0c77deb78438bcc0c310171f4a7abcccc5",
+  "_shrinkwrap": null,
+  "_spec": "inheritance-js@git://github.com/limdauto/inheritance-js.git#b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+  "_where": "/Users/lim/Projects/Memrise/memrise",
+  "author": {
+    "name": "Alex Arnell"
+  },
+  "bugs": {
+    "url": "https://github.com/limdauto/inheritance-js/issues"
+  },
+  "dependencies": {},
+  "description": "Unofficial clone of https://code.google.com/p/inheritance/ to support npm",
+  "devDependencies": {},
+  "gitHead": "b9162cc2827088070faf8ae7e96aea2fcddf85a0",
+  "homepage": "https://github.com/limdauto/inheritance-js",
+  "keywords": [
+    "javascript",
+    "inheritance"
+  ],
+  "license": "BSD",
+  "main": "inheritance.js",
+  "name": "inheritance-js",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/limdauto/inheritance-js.git"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "2.7.0"
+}
